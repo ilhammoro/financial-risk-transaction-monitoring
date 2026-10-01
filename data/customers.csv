@@ -1,0 +1,501 @@
+customer_id,customer_name,age,country,customer_since,risk_rating
+1001,Customer_1001,60,France,2021-08-04,Low
+1002,Customer_1002,66,United Kingdom,2022-07-25,Low
+1003,Customer_1003,35,United Kingdom,2020-04-17,Low
+1004,Customer_1004,60,United Kingdom,2022-03-05,Low
+1005,Customer_1005,69,Germany,2022-09-14,Low
+1006,Customer_1006,21,United Kingdom,2024-09-09,Medium
+1007,Customer_1007,22,United Kingdom,2025-06-12,Low
+1008,Customer_1008,25,United Kingdom,2023-08-22,Low
+1009,Customer_1009,48,Spain,2022-07-04,Low
+1010,Customer_1010,28,United Kingdom,2024-09-02,Low
+1011,Customer_1011,57,United Kingdom,2024-01-12,Low
+1012,Customer_1012,32,United Kingdom,2019-02-08,Low
+1013,Customer_1013,66,United Kingdom,2021-07-03,Medium
+1014,Customer_1014,51,United Kingdom,2023-01-07,Low
+1015,Customer_1015,33,Ireland,2022-12-28,High
+1016,Customer_1016,28,Germany,2020-07-23,Medium
+1017,Customer_1017,55,United Kingdom,2020-12-06,Medium
+1018,Customer_1018,45,United Kingdom,2021-08-05,Low
+1019,Customer_1019,50,Netherlands,2025-05-19,Low
+1020,Customer_1020,74,United Kingdom,2023-05-24,Medium
+1021,Customer_1021,22,Spain,2020-05-21,Medium
+1022,Customer_1022,42,United Kingdom,2018-09-30,Low
+1023,Customer_1023,61,Ireland,2021-09-13,Low
+1024,Customer_1024,43,United Kingdom,2025-09-27,High
+1025,Customer_1025,48,United Kingdom,2019-12-02,Medium
+1026,Customer_1026,73,United Kingdom,2021-12-28,Low
+1027,Customer_1027,43,United Kingdom,2022-10-30,Low
+1028,Customer_1028,22,Netherlands,2019-09-20,Low
+1029,Customer_1029,29,Netherlands,2021-10-01,High
+1030,Customer_1030,31,United Kingdom,2018-02-15,Low
+1031,Customer_1031,49,Netherlands,2026-02-06,Medium
+1032,Customer_1032,59,Spain,2023-05-20,Low
+1033,Customer_1033,43,Spain,2025-02-18,Medium
+1034,Customer_1034,52,United Kingdom,2023-09-25,Low
+1035,Customer_1035,18,United Kingdom,2025-04-24,High
+1036,Customer_1036,55,Netherlands,2022-10-08,Low
+1037,Customer_1037,20,United Kingdom,2020-10-25,Low
+1038,Customer_1038,55,United Kingdom,2026-03-01,Low
+1039,Customer_1039,42,United Kingdom,2024-01-20,Low
+1040,Customer_1040,58,United Kingdom,2019-11-05,Low
+1041,Customer_1041,25,France,2019-03-30,Low
+1042,Customer_1042,65,United Kingdom,2024-09-03,Low
+1043,Customer_1043,40,France,2025-11-10,Low
+1044,Customer_1044,51,France,2025-02-10,Medium
+1045,Customer_1045,49,United Kingdom,2024-03-09,Low
+1046,Customer_1046,29,Spain,2022-10-07,Medium
+1047,Customer_1047,62,United Kingdom,2025-10-23,High
+1048,Customer_1048,24,United Kingdom,2022-07-12,Medium
+1049,Customer_1049,56,United Kingdom,2018-11-19,Low
+1050,Customer_1050,33,United Kingdom,2022-03-02,Medium
+1051,Customer_1051,23,Germany,2018-12-26,Medium
+1052,Customer_1052,26,Germany,2022-11-17,Low
+1053,Customer_1053,41,United Kingdom,2019-07-06,Low
+1054,Customer_1054,20,France,2021-05-28,Low
+1055,Customer_1055,30,Netherlands,2021-02-18,Low
+1056,Customer_1056,68,United Kingdom,2020-05-04,Low
+1057,Customer_1057,36,United Kingdom,2022-09-19,Medium
+1058,Customer_1058,59,United Kingdom,2023-01-05,High
+1059,Customer_1059,27,United Kingdom,2025-01-06,Medium
+1060,Customer_1060,26,United Kingdom,2020-07-22,Low
+1061,Customer_1061,49,United Kingdom,2023-09-08,Low
+1062,Customer_1062,54,Spain,2019-08-31,Medium
+1063,Customer_1063,44,Spain,2018-02-27,Low
+1064,Customer_1064,59,United Kingdom,2024-04-27,Low
+1065,Customer_1065,74,Germany,2022-07-07,Medium
+1066,Customer_1066,65,Ireland,2022-09-11,Low
+1067,Customer_1067,23,Ireland,2022-08-05,Low
+1068,Customer_1068,65,United Kingdom,2024-12-16,Medium
+1069,Customer_1069,39,Germany,2023-12-13,Low
+1070,Customer_1070,31,Spain,2021-04-07,Medium
+1071,Customer_1071,60,Netherlands,2018-03-29,Low
+1072,Customer_1072,55,Spain,2019-10-07,Low
+1073,Customer_1073,69,Germany,2019-10-27,Low
+1074,Customer_1074,74,United Kingdom,2023-06-29,Low
+1075,Customer_1075,53,Germany,2022-08-04,Low
+1076,Customer_1076,23,Netherlands,2023-06-27,Medium
+1077,Customer_1077,67,Spain,2022-08-03,Low
+1078,Customer_1078,38,France,2025-09-11,Low
+1079,Customer_1079,31,Ireland,2022-04-30,Low
+1080,Customer_1080,49,United Kingdom,2022-01-19,Low
+1081,Customer_1081,72,United Kingdom,2025-10-14,Medium
+1082,Customer_1082,66,United Kingdom,2018-05-06,Low
+1083,Customer_1083,20,Spain,2019-12-18,Low
+1084,Customer_1084,24,United Kingdom,2022-07-02,Low
+1085,Customer_1085,35,United Kingdom,2024-04-16,Low
+1086,Customer_1086,49,United Kingdom,2024-06-01,High
+1087,Customer_1087,19,Germany,2022-05-14,Low
+1088,Customer_1088,24,United Kingdom,2025-12-10,Low
+1089,Customer_1089,46,Spain,2023-03-27,Low
+1090,Customer_1090,29,United Kingdom,2021-07-17,Low
+1091,Customer_1091,35,United Kingdom,2021-07-24,Medium
+1092,Customer_1092,64,United Kingdom,2024-09-05,Medium
+1093,Customer_1093,28,United Kingdom,2019-03-12,Low
+1094,Customer_1094,32,United Kingdom,2023-08-24,Low
+1095,Customer_1095,22,United Kingdom,2018-06-01,Medium
+1096,Customer_1096,54,Netherlands,2022-01-18,Low
+1097,Customer_1097,28,United Kingdom,2019-06-07,High
+1098,Customer_1098,72,United Kingdom,2022-11-06,Low
+1099,Customer_1099,61,United Kingdom,2019-10-20,Low
+1100,Customer_1100,64,Spain,2025-01-02,Low
+1101,Customer_1101,34,United Kingdom,2018-09-10,Low
+1102,Customer_1102,73,Netherlands,2022-08-02,Low
+1103,Customer_1103,63,United Kingdom,2023-06-03,Low
+1104,Customer_1104,38,Netherlands,2021-06-22,Low
+1105,Customer_1105,52,United Kingdom,2019-06-12,Low
+1106,Customer_1106,61,France,2023-04-20,Low
+1107,Customer_1107,49,France,2025-09-29,Low
+1108,Customer_1108,34,United Kingdom,2020-07-23,Low
+1109,Customer_1109,72,United Kingdom,2019-03-20,Medium
+1110,Customer_1110,65,United Kingdom,2020-06-02,Low
+1111,Customer_1111,68,United Kingdom,2021-11-28,Low
+1112,Customer_1112,60,United Kingdom,2023-08-22,Low
+1113,Customer_1113,40,United Kingdom,2023-04-26,Low
+1114,Customer_1114,44,United Kingdom,2020-09-24,Low
+1115,Customer_1115,31,France,2025-01-04,Low
+1116,Customer_1116,42,United Kingdom,2021-03-10,Medium
+1117,Customer_1117,32,United Kingdom,2023-07-20,Medium
+1118,Customer_1118,30,France,2018-01-28,Low
+1119,Customer_1119,33,France,2021-11-18,Low
+1120,Customer_1120,57,France,2020-12-16,Low
+1121,Customer_1121,45,United Kingdom,2021-02-23,Medium
+1122,Customer_1122,22,United Kingdom,2024-08-13,Low
+1123,Customer_1123,74,United Kingdom,2024-02-28,High
+1124,Customer_1124,20,United Kingdom,2022-01-01,Low
+1125,Customer_1125,71,Netherlands,2020-12-30,High
+1126,Customer_1126,27,United Kingdom,2022-01-06,Low
+1127,Customer_1127,47,United Kingdom,2023-11-15,Low
+1128,Customer_1128,66,France,2019-08-26,Low
+1129,Customer_1129,55,Germany,2018-01-26,Low
+1130,Customer_1130,18,Ireland,2018-03-02,Low
+1131,Customer_1131,73,United Kingdom,2018-01-16,High
+1132,Customer_1132,22,United Kingdom,2020-06-01,Medium
+1133,Customer_1133,66,United Kingdom,2025-09-23,Low
+1134,Customer_1134,43,United Kingdom,2020-07-15,Low
+1135,Customer_1135,39,United Kingdom,2024-10-09,Low
+1136,Customer_1136,40,United Kingdom,2020-01-25,High
+1137,Customer_1137,59,United Kingdom,2020-09-07,Low
+1138,Customer_1138,29,United Kingdom,2025-07-12,Medium
+1139,Customer_1139,36,United Kingdom,2026-02-14,Low
+1140,Customer_1140,70,United Kingdom,2021-11-14,Low
+1141,Customer_1141,50,United Kingdom,2019-03-16,High
+1142,Customer_1142,26,France,2021-04-17,Low
+1143,Customer_1143,56,United Kingdom,2022-04-03,Low
+1144,Customer_1144,34,United Kingdom,2024-05-20,Low
+1145,Customer_1145,31,Netherlands,2019-03-16,Low
+1146,Customer_1146,72,United Kingdom,2024-01-15,Low
+1147,Customer_1147,28,United Kingdom,2021-06-08,High
+1148,Customer_1148,33,United Kingdom,2022-12-28,Medium
+1149,Customer_1149,24,France,2025-11-16,Low
+1150,Customer_1150,27,Ireland,2023-10-27,Low
+1151,Customer_1151,68,United Kingdom,2023-08-28,Medium
+1152,Customer_1152,29,Netherlands,2024-04-17,High
+1153,Customer_1153,28,United Kingdom,2021-08-14,Low
+1154,Customer_1154,43,United Kingdom,2022-09-17,Low
+1155,Customer_1155,20,Ireland,2018-04-23,Low
+1156,Customer_1156,55,United Kingdom,2022-09-23,Low
+1157,Customer_1157,64,Netherlands,2021-04-16,Low
+1158,Customer_1158,29,United Kingdom,2021-11-12,Low
+1159,Customer_1159,19,Germany,2022-06-03,Low
+1160,Customer_1160,18,United Kingdom,2018-07-26,Low
+1161,Customer_1161,55,Germany,2020-07-12,Low
+1162,Customer_1162,22,United Kingdom,2019-10-30,Medium
+1163,Customer_1163,18,United Kingdom,2022-02-16,Medium
+1164,Customer_1164,55,United Kingdom,2025-05-21,Medium
+1165,Customer_1165,57,Spain,2019-01-04,Low
+1166,Customer_1166,44,Netherlands,2019-11-18,Low
+1167,Customer_1167,35,United Kingdom,2026-01-07,Medium
+1168,Customer_1168,62,United Kingdom,2025-09-01,Low
+1169,Customer_1169,34,United Kingdom,2022-11-11,High
+1170,Customer_1170,52,United Kingdom,2021-02-28,Low
+1171,Customer_1171,74,United Kingdom,2021-05-21,Low
+1172,Customer_1172,52,Ireland,2023-10-29,Medium
+1173,Customer_1173,51,United Kingdom,2025-01-26,Medium
+1174,Customer_1174,71,United Kingdom,2023-04-05,Low
+1175,Customer_1175,23,Spain,2020-02-13,Low
+1176,Customer_1176,42,United Kingdom,2024-12-22,Low
+1177,Customer_1177,49,Germany,2020-03-19,Low
+1178,Customer_1178,49,France,2019-03-16,Low
+1179,Customer_1179,63,United Kingdom,2023-10-30,Low
+1180,Customer_1180,52,United Kingdom,2018-03-23,Medium
+1181,Customer_1181,19,United Kingdom,2020-01-08,High
+1182,Customer_1182,41,United Kingdom,2022-01-13,Low
+1183,Customer_1183,64,United Kingdom,2024-11-24,Low
+1184,Customer_1184,32,United Kingdom,2023-07-16,Low
+1185,Customer_1185,66,United Kingdom,2023-08-09,Low
+1186,Customer_1186,40,Spain,2025-07-15,Medium
+1187,Customer_1187,47,United Kingdom,2021-09-11,Low
+1188,Customer_1188,43,Germany,2020-01-24,Medium
+1189,Customer_1189,40,United Kingdom,2020-08-02,Low
+1190,Customer_1190,68,Germany,2025-08-13,High
+1191,Customer_1191,66,United Kingdom,2018-09-21,Medium
+1192,Customer_1192,52,Ireland,2026-01-16,Medium
+1193,Customer_1193,61,United Kingdom,2022-10-01,Low
+1194,Customer_1194,27,United Kingdom,2023-06-20,Low
+1195,Customer_1195,68,United Kingdom,2021-02-07,Low
+1196,Customer_1196,43,United Kingdom,2025-09-24,Medium
+1197,Customer_1197,38,United Kingdom,2019-03-09,Low
+1198,Customer_1198,36,Germany,2024-10-07,Low
+1199,Customer_1199,36,United Kingdom,2018-11-27,Low
+1200,Customer_1200,46,United Kingdom,2022-02-02,Low
+1201,Customer_1201,60,Netherlands,2023-12-11,Medium
+1202,Customer_1202,68,United Kingdom,2022-08-22,Low
+1203,Customer_1203,54,United Kingdom,2024-10-30,Low
+1204,Customer_1204,74,United Kingdom,2020-10-03,Low
+1205,Customer_1205,71,Spain,2026-03-05,Medium
+1206,Customer_1206,22,Netherlands,2021-09-21,Low
+1207,Customer_1207,60,United Kingdom,2021-10-05,Low
+1208,Customer_1208,54,United Kingdom,2024-03-09,Low
+1209,Customer_1209,50,United Kingdom,2018-04-18,Medium
+1210,Customer_1210,62,Spain,2019-05-28,Low
+1211,Customer_1211,48,United Kingdom,2018-08-15,High
+1212,Customer_1212,43,United Kingdom,2021-10-31,Low
+1213,Customer_1213,31,United Kingdom,2020-12-07,Medium
+1214,Customer_1214,34,United Kingdom,2021-02-01,Medium
+1215,Customer_1215,60,Germany,2022-08-02,Low
+1216,Customer_1216,67,United Kingdom,2024-07-14,Medium
+1217,Customer_1217,23,Spain,2018-07-07,Medium
+1218,Customer_1218,58,France,2020-06-02,Low
+1219,Customer_1219,27,United Kingdom,2019-09-26,Medium
+1220,Customer_1220,44,France,2020-07-20,Medium
+1221,Customer_1221,35,United Kingdom,2023-02-08,Low
+1222,Customer_1222,43,United Kingdom,2023-06-12,Medium
+1223,Customer_1223,66,Netherlands,2019-04-21,Low
+1224,Customer_1224,55,United Kingdom,2024-10-14,Low
+1225,Customer_1225,23,United Kingdom,2024-01-21,Low
+1226,Customer_1226,71,United Kingdom,2019-02-21,Low
+1227,Customer_1227,26,United Kingdom,2018-04-10,Low
+1228,Customer_1228,32,United Kingdom,2019-06-07,Low
+1229,Customer_1229,44,United Kingdom,2023-11-29,Low
+1230,Customer_1230,19,United Kingdom,2020-09-24,High
+1231,Customer_1231,35,United Kingdom,2022-05-01,High
+1232,Customer_1232,53,Ireland,2020-06-14,Medium
+1233,Customer_1233,18,Germany,2021-01-27,Low
+1234,Customer_1234,56,United Kingdom,2022-10-16,Low
+1235,Customer_1235,24,United Kingdom,2023-03-29,Low
+1236,Customer_1236,68,United Kingdom,2018-06-12,Low
+1237,Customer_1237,27,Germany,2021-03-19,Low
+1238,Customer_1238,36,United Kingdom,2023-05-23,Low
+1239,Customer_1239,75,United Kingdom,2023-03-22,Low
+1240,Customer_1240,39,United Kingdom,2024-01-17,Low
+1241,Customer_1241,72,United Kingdom,2025-05-19,Low
+1242,Customer_1242,27,United Kingdom,2022-06-14,Low
+1243,Customer_1243,32,United Kingdom,2022-04-12,Medium
+1244,Customer_1244,18,Ireland,2018-10-05,Medium
+1245,Customer_1245,69,United Kingdom,2022-12-09,Low
+1246,Customer_1246,35,United Kingdom,2025-08-18,Low
+1247,Customer_1247,66,United Kingdom,2021-09-28,Medium
+1248,Customer_1248,75,France,2022-05-25,Low
+1249,Customer_1249,59,United Kingdom,2022-01-15,Low
+1250,Customer_1250,28,United Kingdom,2024-07-12,Low
+1251,Customer_1251,39,United Kingdom,2023-07-31,Low
+1252,Customer_1252,42,Germany,2024-02-19,Low
+1253,Customer_1253,42,United Kingdom,2022-09-20,Medium
+1254,Customer_1254,39,United Kingdom,2023-05-15,Medium
+1255,Customer_1255,58,Netherlands,2024-01-06,Medium
+1256,Customer_1256,57,Germany,2021-07-20,Low
+1257,Customer_1257,31,France,2022-12-14,Medium
+1258,Customer_1258,30,United Kingdom,2024-11-13,Low
+1259,Customer_1259,63,France,2019-02-03,Low
+1260,Customer_1260,22,Germany,2021-09-04,Low
+1261,Customer_1261,45,United Kingdom,2023-11-25,High
+1262,Customer_1262,20,United Kingdom,2022-08-17,Low
+1263,Customer_1263,38,United Kingdom,2022-05-11,Low
+1264,Customer_1264,72,Ireland,2025-10-27,Low
+1265,Customer_1265,72,United Kingdom,2023-08-13,Medium
+1266,Customer_1266,40,United Kingdom,2023-06-15,Low
+1267,Customer_1267,30,United Kingdom,2023-12-24,Low
+1268,Customer_1268,18,United Kingdom,2024-12-24,Low
+1269,Customer_1269,61,United Kingdom,2022-02-18,High
+1270,Customer_1270,48,United Kingdom,2022-12-12,Medium
+1271,Customer_1271,74,United Kingdom,2020-03-06,High
+1272,Customer_1272,49,United Kingdom,2018-12-08,Low
+1273,Customer_1273,22,United Kingdom,2019-02-01,Low
+1274,Customer_1274,18,Ireland,2019-01-10,Low
+1275,Customer_1275,33,United Kingdom,2022-11-03,Medium
+1276,Customer_1276,25,United Kingdom,2021-12-09,High
+1277,Customer_1277,25,United Kingdom,2021-12-26,Low
+1278,Customer_1278,40,United Kingdom,2021-06-12,Low
+1279,Customer_1279,38,United Kingdom,2022-04-22,Low
+1280,Customer_1280,58,United Kingdom,2023-12-24,Low
+1281,Customer_1281,69,United Kingdom,2022-05-21,Low
+1282,Customer_1282,18,Netherlands,2025-06-20,Low
+1283,Customer_1283,50,United Kingdom,2025-10-12,Low
+1284,Customer_1284,20,United Kingdom,2019-06-26,Low
+1285,Customer_1285,72,United Kingdom,2022-09-14,Low
+1286,Customer_1286,75,United Kingdom,2025-02-10,Low
+1287,Customer_1287,24,United Kingdom,2024-08-28,Low
+1288,Customer_1288,25,United Kingdom,2022-03-22,Low
+1289,Customer_1289,23,United Kingdom,2022-06-26,Medium
+1290,Customer_1290,66,United Kingdom,2024-03-16,Low
+1291,Customer_1291,63,Spain,2018-04-09,Low
+1292,Customer_1292,51,United Kingdom,2018-11-01,Low
+1293,Customer_1293,71,United Kingdom,2022-05-21,High
+1294,Customer_1294,23,Ireland,2021-07-12,Low
+1295,Customer_1295,63,United Kingdom,2019-04-08,Medium
+1296,Customer_1296,19,United Kingdom,2023-02-17,High
+1297,Customer_1297,75,United Kingdom,2018-08-24,Low
+1298,Customer_1298,56,United Kingdom,2025-01-13,Medium
+1299,Customer_1299,62,Netherlands,2024-03-30,Medium
+1300,Customer_1300,64,United Kingdom,2023-06-04,Low
+1301,Customer_1301,63,United Kingdom,2021-06-02,Low
+1302,Customer_1302,63,United Kingdom,2023-10-26,Low
+1303,Customer_1303,18,United Kingdom,2025-05-26,Medium
+1304,Customer_1304,68,United Kingdom,2024-06-26,Low
+1305,Customer_1305,39,United Kingdom,2024-02-29,Low
+1306,Customer_1306,64,United Kingdom,2022-09-29,Medium
+1307,Customer_1307,47,United Kingdom,2018-10-15,Medium
+1308,Customer_1308,59,United Kingdom,2025-08-02,Low
+1309,Customer_1309,34,United Kingdom,2018-06-25,Low
+1310,Customer_1310,35,France,2021-06-14,Low
+1311,Customer_1311,75,Germany,2019-06-04,Low
+1312,Customer_1312,35,United Kingdom,2019-03-20,Low
+1313,Customer_1313,46,United Kingdom,2020-06-12,Low
+1314,Customer_1314,45,United Kingdom,2023-12-08,High
+1315,Customer_1315,58,United Kingdom,2018-12-29,Low
+1316,Customer_1316,48,United Kingdom,2024-09-10,Medium
+1317,Customer_1317,67,United Kingdom,2021-08-04,Medium
+1318,Customer_1318,57,United Kingdom,2023-10-21,Low
+1319,Customer_1319,30,Germany,2024-03-15,Medium
+1320,Customer_1320,35,United Kingdom,2025-10-16,Low
+1321,Customer_1321,59,United Kingdom,2021-12-08,Low
+1322,Customer_1322,44,United Kingdom,2025-11-02,Low
+1323,Customer_1323,53,United Kingdom,2025-08-23,Low
+1324,Customer_1324,67,United Kingdom,2024-01-14,Medium
+1325,Customer_1325,53,United Kingdom,2021-05-25,Medium
+1326,Customer_1326,25,Spain,2019-02-17,Medium
+1327,Customer_1327,41,United Kingdom,2023-03-05,Medium
+1328,Customer_1328,59,United Kingdom,2020-03-08,Medium
+1329,Customer_1329,72,Netherlands,2018-05-02,Medium
+1330,Customer_1330,57,Ireland,2020-05-30,Low
+1331,Customer_1331,26,United Kingdom,2024-09-19,Medium
+1332,Customer_1332,47,France,2024-02-20,Medium
+1333,Customer_1333,66,Netherlands,2023-09-05,Low
+1334,Customer_1334,50,United Kingdom,2024-04-17,Low
+1335,Customer_1335,20,United Kingdom,2024-09-19,Medium
+1336,Customer_1336,53,United Kingdom,2019-11-13,Low
+1337,Customer_1337,69,France,2020-12-18,Low
+1338,Customer_1338,41,Spain,2024-09-11,Medium
+1339,Customer_1339,36,Germany,2020-04-03,Low
+1340,Customer_1340,51,United Kingdom,2024-02-29,Medium
+1341,Customer_1341,48,United Kingdom,2019-09-20,Medium
+1342,Customer_1342,46,France,2020-01-24,Low
+1343,Customer_1343,64,France,2022-05-30,Low
+1344,Customer_1344,61,United Kingdom,2020-11-12,Low
+1345,Customer_1345,57,United Kingdom,2024-10-29,Low
+1346,Customer_1346,29,France,2022-11-11,Low
+1347,Customer_1347,36,United Kingdom,2024-07-02,Low
+1348,Customer_1348,63,Germany,2020-07-20,Low
+1349,Customer_1349,67,Germany,2022-07-24,Low
+1350,Customer_1350,35,United Kingdom,2020-06-24,Medium
+1351,Customer_1351,73,United Kingdom,2025-09-02,Low
+1352,Customer_1352,22,Netherlands,2022-04-18,Low
+1353,Customer_1353,49,Netherlands,2018-10-28,Low
+1354,Customer_1354,53,Netherlands,2024-06-05,Medium
+1355,Customer_1355,73,United Kingdom,2023-03-18,Low
+1356,Customer_1356,69,United Kingdom,2022-03-04,Low
+1357,Customer_1357,50,United Kingdom,2020-09-25,Low
+1358,Customer_1358,72,United Kingdom,2022-03-03,High
+1359,Customer_1359,32,United Kingdom,2018-09-01,Low
+1360,Customer_1360,58,United Kingdom,2018-12-25,Medium
+1361,Customer_1361,45,France,2025-06-27,Medium
+1362,Customer_1362,71,United Kingdom,2022-11-26,Medium
+1363,Customer_1363,63,United Kingdom,2020-01-27,Medium
+1364,Customer_1364,46,United Kingdom,2024-04-13,Low
+1365,Customer_1365,46,United Kingdom,2019-03-13,Low
+1366,Customer_1366,34,United Kingdom,2023-09-16,Medium
+1367,Customer_1367,38,Ireland,2023-05-29,Low
+1368,Customer_1368,75,United Kingdom,2022-04-20,Low
+1369,Customer_1369,75,United Kingdom,2021-05-06,Low
+1370,Customer_1370,38,United Kingdom,2024-07-20,Low
+1371,Customer_1371,50,United Kingdom,2022-01-05,Low
+1372,Customer_1372,55,United Kingdom,2021-02-22,Low
+1373,Customer_1373,31,Germany,2018-03-07,Low
+1374,Customer_1374,40,Germany,2018-01-10,Low
+1375,Customer_1375,42,United Kingdom,2023-08-13,Medium
+1376,Customer_1376,25,United Kingdom,2026-01-04,Low
+1377,Customer_1377,52,United Kingdom,2021-07-06,Low
+1378,Customer_1378,44,United Kingdom,2023-03-15,Low
+1379,Customer_1379,43,United Kingdom,2023-11-02,Medium
+1380,Customer_1380,61,United Kingdom,2021-10-14,Medium
+1381,Customer_1381,18,United Kingdom,2018-10-17,Low
+1382,Customer_1382,74,Ireland,2018-05-26,Medium
+1383,Customer_1383,67,United Kingdom,2018-11-04,Low
+1384,Customer_1384,29,United Kingdom,2019-11-16,Medium
+1385,Customer_1385,43,Spain,2022-03-21,Low
+1386,Customer_1386,25,United Kingdom,2020-06-21,Low
+1387,Customer_1387,28,United Kingdom,2024-03-18,Low
+1388,Customer_1388,38,Netherlands,2022-06-23,Low
+1389,Customer_1389,26,United Kingdom,2023-11-19,Low
+1390,Customer_1390,22,United Kingdom,2019-10-05,Medium
+1391,Customer_1391,62,United Kingdom,2024-02-28,Low
+1392,Customer_1392,43,United Kingdom,2023-05-08,Low
+1393,Customer_1393,35,United Kingdom,2019-08-22,Low
+1394,Customer_1394,43,Ireland,2020-02-06,Low
+1395,Customer_1395,58,United Kingdom,2022-12-11,Low
+1396,Customer_1396,46,Spain,2022-02-07,Low
+1397,Customer_1397,49,United Kingdom,2023-10-23,Medium
+1398,Customer_1398,42,Germany,2023-11-07,Medium
+1399,Customer_1399,35,France,2024-10-10,Low
+1400,Customer_1400,22,Netherlands,2024-05-29,Medium
+1401,Customer_1401,64,Spain,2022-10-25,Low
+1402,Customer_1402,43,Germany,2024-10-17,Low
+1403,Customer_1403,39,Netherlands,2023-01-21,Low
+1404,Customer_1404,49,United Kingdom,2020-06-23,Medium
+1405,Customer_1405,41,United Kingdom,2021-01-30,Low
+1406,Customer_1406,37,United Kingdom,2024-01-28,Low
+1407,Customer_1407,32,Ireland,2019-12-14,Low
+1408,Customer_1408,41,Spain,2024-11-13,Low
+1409,Customer_1409,64,United Kingdom,2018-12-05,Low
+1410,Customer_1410,20,United Kingdom,2022-10-15,Low
+1411,Customer_1411,48,Netherlands,2018-08-05,Low
+1412,Customer_1412,37,Ireland,2021-06-28,Medium
+1413,Customer_1413,65,France,2021-05-07,High
+1414,Customer_1414,44,United Kingdom,2023-11-15,Low
+1415,Customer_1415,59,United Kingdom,2019-01-29,Low
+1416,Customer_1416,48,Spain,2019-02-24,Low
+1417,Customer_1417,53,United Kingdom,2025-01-05,Low
+1418,Customer_1418,52,United Kingdom,2025-04-07,Low
+1419,Customer_1419,58,United Kingdom,2022-07-27,Medium
+1420,Customer_1420,41,United Kingdom,2024-08-09,Low
+1421,Customer_1421,35,United Kingdom,2021-02-15,Low
+1422,Customer_1422,59,France,2019-01-03,Low
+1423,Customer_1423,22,France,2018-07-15,Medium
+1424,Customer_1424,58,Germany,2024-05-04,Low
+1425,Customer_1425,54,United Kingdom,2025-02-07,Low
+1426,Customer_1426,51,United Kingdom,2018-09-30,Low
+1427,Customer_1427,18,United Kingdom,2018-01-26,Low
+1428,Customer_1428,64,Ireland,2018-02-27,High
+1429,Customer_1429,60,United Kingdom,2022-12-19,Low
+1430,Customer_1430,70,United Kingdom,2021-01-19,Low
+1431,Customer_1431,71,United Kingdom,2021-06-26,Medium
+1432,Customer_1432,71,Germany,2024-09-30,Medium
+1433,Customer_1433,71,United Kingdom,2019-09-09,Low
+1434,Customer_1434,69,United Kingdom,2021-10-25,Low
+1435,Customer_1435,50,United Kingdom,2023-11-06,High
+1436,Customer_1436,43,Netherlands,2021-05-15,Low
+1437,Customer_1437,43,United Kingdom,2022-08-05,Medium
+1438,Customer_1438,60,United Kingdom,2023-07-07,Low
+1439,Customer_1439,36,United Kingdom,2021-04-20,High
+1440,Customer_1440,55,Ireland,2022-06-27,Low
+1441,Customer_1441,21,United Kingdom,2026-03-14,Medium
+1442,Customer_1442,63,United Kingdom,2018-01-08,Low
+1443,Customer_1443,31,Netherlands,2024-06-12,Low
+1444,Customer_1444,32,Spain,2021-08-20,Low
+1445,Customer_1445,44,United Kingdom,2022-12-15,Low
+1446,Customer_1446,60,United Kingdom,2021-02-25,High
+1447,Customer_1447,43,United Kingdom,2019-01-22,Medium
+1448,Customer_1448,32,United Kingdom,2025-10-17,Low
+1449,Customer_1449,45,United Kingdom,2024-01-31,Medium
+1450,Customer_1450,25,United Kingdom,2020-12-31,Low
+1451,Customer_1451,31,United Kingdom,2024-11-21,Low
+1452,Customer_1452,71,United Kingdom,2024-10-02,Low
+1453,Customer_1453,21,United Kingdom,2019-06-02,Low
+1454,Customer_1454,38,United Kingdom,2025-10-09,Low
+1455,Customer_1455,49,United Kingdom,2020-10-16,High
+1456,Customer_1456,56,United Kingdom,2020-01-17,Low
+1457,Customer_1457,45,France,2022-01-18,Low
+1458,Customer_1458,61,United Kingdom,2026-02-02,Low
+1459,Customer_1459,64,United Kingdom,2018-10-28,Low
+1460,Customer_1460,67,France,2022-12-26,Low
+1461,Customer_1461,60,United Kingdom,2025-05-13,Low
+1462,Customer_1462,43,Ireland,2018-11-16,Low
+1463,Customer_1463,68,United Kingdom,2018-01-07,Low
+1464,Customer_1464,64,United Kingdom,2022-12-28,Low
+1465,Customer_1465,58,United Kingdom,2020-04-29,Medium
+1466,Customer_1466,41,United Kingdom,2018-03-28,Low
+1467,Customer_1467,72,Germany,2024-07-22,Medium
+1468,Customer_1468,24,United Kingdom,2024-11-11,Low
+1469,Customer_1469,37,United Kingdom,2021-06-08,Low
+1470,Customer_1470,71,United Kingdom,2023-12-19,Medium
+1471,Customer_1471,62,United Kingdom,2025-11-16,Medium
+1472,Customer_1472,26,United Kingdom,2018-07-10,Low
+1473,Customer_1473,25,United Kingdom,2022-02-15,Low
+1474,Customer_1474,72,United Kingdom,2023-10-06,Low
+1475,Customer_1475,52,United Kingdom,2024-03-16,Low
+1476,Customer_1476,23,United Kingdom,2022-07-25,Low
+1477,Customer_1477,49,United Kingdom,2025-11-22,Medium
+1478,Customer_1478,53,United Kingdom,2019-04-01,Medium
+1479,Customer_1479,19,United Kingdom,2018-02-12,Low
+1480,Customer_1480,21,United Kingdom,2025-10-27,Medium
+1481,Customer_1481,52,United Kingdom,2020-04-21,Medium
+1482,Customer_1482,62,Netherlands,2025-09-23,Low
+1483,Customer_1483,45,United Kingdom,2023-04-20,Low
+1484,Customer_1484,23,Germany,2022-06-29,Medium
+1485,Customer_1485,70,United Kingdom,2025-05-19,Medium
+1486,Customer_1486,70,Ireland,2019-04-16,Low
+1487,Customer_1487,43,United Kingdom,2018-09-13,Low
+1488,Customer_1488,18,United Kingdom,2021-02-17,Low
+1489,Customer_1489,73,United Kingdom,2020-09-04,Low
+1490,Customer_1490,58,United Kingdom,2020-09-21,Medium
+1491,Customer_1491,49,United Kingdom,2021-02-17,Medium
+1492,Customer_1492,53,France,2020-08-22,Low
+1493,Customer_1493,55,United Kingdom,2022-12-24,Low
+1494,Customer_1494,37,United Kingdom,2024-05-27,Low
+1495,Customer_1495,27,United Kingdom,2024-03-14,Low
+1496,Customer_1496,60,France,2023-08-30,Medium
+1497,Customer_1497,65,United Kingdom,2019-01-03,Medium
+1498,Customer_1498,45,Germany,2018-08-03,Low
+1499,Customer_1499,32,United Kingdom,2024-04-21,Low
+1500,Customer_1500,68,United Kingdom,2018-11-28,Medium
